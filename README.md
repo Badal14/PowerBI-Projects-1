@@ -1,6 +1,3 @@
-# PowerBI-Projects-1
-Power BI projects, data modeling, dashboards, reports, and data analysis work
-
 # Power BI Projects
 
 This repository contains my Power BI projects and dashboard development work.
